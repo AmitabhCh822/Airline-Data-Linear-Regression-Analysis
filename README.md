@@ -17,7 +17,7 @@ The dataset used for this analysis is sourced from `airline_costs.dat` (a fixed-
 
 4. Run the Python script:
 
-      python airline_analysis.py
+      python linear_regression.py
 
 5. The script will perform the following tasks:
       - Load and preprocess the data
