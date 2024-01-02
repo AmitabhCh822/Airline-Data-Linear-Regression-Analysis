@@ -1,21 +1,20 @@
 # Airline-Data-Linear-Regression-Analysis
+
 ## Overview
 Welcome to the "Airline Data Linear Regression Analysis" repository! This project provides Python code and tools for the analysis of airline performance data using linear regression techniques. Whether you're interested in comprehending the factors influencing airline customer numbers or exploring the relationship between flight characteristics and operating costs, this repository offers valuable insights and statistical analysis.
+
 ## Data Source
 The dataset used for this analysis is sourced from `airline_costs.dat` (a fixed-width file) and is converted into a CSV file named `airline_costs.csv` for easier data manipulation.
+
 ## Usage
 1. Clone the repository to your local machine:
-2. 
 git clone https://github.com/yourusername/Airline-Performance-Analysis.git
 
 3. Install the required libraries if not already installed:
-
 pip install numpy pandas matplotlib statsmodels
 
 4. Run the Python script:
-
 python airline_analysis.py
-
 
 5. The script will perform the following tasks:
 - Load and preprocess the data
