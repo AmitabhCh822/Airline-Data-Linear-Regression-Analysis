@@ -8,19 +8,22 @@ The dataset used for this analysis is sourced from `airline_costs.dat` (a fixed-
 
 ## Usage
 1. Clone the repository to your local machine:
-git clone https://github.com/yourusername/Airline-Performance-Analysis.git
+
+  git clone https://github.com/yourusername/Airline-Performance-Analysis.git
 
 3. Install the required libraries if not already installed:
-pip install numpy pandas matplotlib statsmodels
+
+  pip install numpy pandas matplotlib statsmodels
 
 4. Run the Python script:
-python airline_analysis.py
+
+  python airline_analysis.py
 
 5. The script will perform the following tasks:
-- Load and preprocess the data
-- Perform linear regression analysis
-- Calculate correlation coefficients
-- Display regression results and correlation information
+  - Load and preprocess the data
+  - Perform linear regression analysis
+  - Calculate correlation coefficients
+  - Display regression results and correlation information
 
 ## Results
 The script provides valuable insights into airline performance, including regression formulas, R-squared values and correlation coefficients.
@@ -28,5 +31,4 @@ The script provides valuable insights into airline performance, including regres
 ## Contributor
 Amitabh Chakravorty
 
-Feel free to contribute to this project by improving the code, adding new analyses or providing additional insights.
-
+Feel free to contribute to this project by improving the code, adding new analyses or additional insights.
