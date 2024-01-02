@@ -1,5 +1,5 @@
 """
-@author: Amitabh
+@author: Amitabh Chakravorty
 """
 
 import numpy as np
